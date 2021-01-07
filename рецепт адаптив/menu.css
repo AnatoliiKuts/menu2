@@ -1,0 +1,24 @@
+
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h2 span{
+    font-weight: bold;
+}
+span{
+    padding: 20px;
+}
+@media screen and (max-width: 762px){
+    h1 {
+        font-size: 20px;
+    }
+    h2{
+        font-size: 15px;
+    }
+    ol{
+        padding-left: 20px;
+    }
+}
